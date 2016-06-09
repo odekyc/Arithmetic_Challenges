@@ -7,11 +7,16 @@ Whole numbers and mixed fractions should be returned as improper fractions.
 Examples
 <br />
 Input	Output
+
+<br />
 number:
 0.5	"1/2"
+<br />
 number:
 3	"3/1"
+<br />
 number:
 2.5	"5/2"
+<br />
 number:
 2.75	"11/4"
