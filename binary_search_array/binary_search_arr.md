@@ -59,15 +59,14 @@ ________________
 <br />
 12	
 ___________
-array:
-[ 11, 12, 13, 14, 15 ]
-<br />
-target:
-13	
-<br />
-output:
+**array:**
+[ 11, 12, 13, 14, 15 ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**output:**
 2
 <br />
+**target:**
+<br />
+13	
+___________
 array:
 [ 11, 12, 13, 14, 15 ]
 <br />
