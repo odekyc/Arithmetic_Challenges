@@ -1,6 +1,6 @@
 #Balanced Parenthesis
 <br />
-Given a string, return true if it contains balanced parenthesis ().
+####**Given a string, return true if it contains balanced parenthesis ().**
 <br />
 <br />
 _**Examples**_:
