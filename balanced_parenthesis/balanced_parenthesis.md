@@ -3,7 +3,7 @@
 Given a string, return true if it contains balanced parenthesis ().
 <br />
 <br />
-_Examples_:
+_**Examples**_:
 <br />
 <br />
 **Input** 
