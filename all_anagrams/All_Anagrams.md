@@ -4,9 +4,9 @@
 <br />
 string (required) - a string of characters.
 <br/>
-Examples
-<br />
 
+**Examples:**
+<br />
 Input   Output
 <br />
 string:
