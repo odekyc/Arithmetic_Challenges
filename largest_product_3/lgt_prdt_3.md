@@ -1,6 +1,5 @@
 #Largest Product of Three
-<br />
-Write a function that accepts an array of integers and returns the largest product possible from three of those numbers.
+**Write a function that accepts an array of integers and returns the largest product possible from _three_ of those numbers.**
 <br />
 Examples
 <br />
