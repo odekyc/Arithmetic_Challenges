@@ -9,7 +9,6 @@ _**Examples**_:
 **Input** 
 <br />
 string:&nbsp;&nbsp;&nbsp;"(x + y) - (4)"	
-<br />
 **Output** 
 <br />
 true
