@@ -13,6 +13,7 @@ true
 **Input** 
 <br />
 string:&nbsp;&nbsp;&nbsp;"(((10 ) ()) ((?)(:)))"
+<br/>
 **Output**
 <br />
 true
