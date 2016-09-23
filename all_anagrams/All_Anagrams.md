@@ -7,6 +7,6 @@ string (required) - a string of characters.
 
 **Examples:**
 <br />
-Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output
+Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output
 <br />
 "abc"&nbsp;&nbsp;&nbsp;[ "abc", "acb", "bac", "bca", "cab", "cba" ]
