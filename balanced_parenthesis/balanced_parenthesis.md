@@ -25,6 +25,12 @@ string:&nbsp;&nbsp;&nbsp;"(50)("
 <br />
 false
 <br />
+<br />
+**Input**
 string:
 <br />
-""	true
+""
+<br />
+**Output**
+<br />
+true
