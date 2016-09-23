@@ -9,7 +9,7 @@ should retain their relative order. Numbers, as primitives, give us no way to ch
 so we’ll be sorting objects with a value field, on which they will be sorted, like so:**
 <br />
 <br />
-__[{value: 10}, {value: 5, order: 1}, {value: 5, order: 2}]__
+_[{value: 10}, {value: 5, order: 1}, {value: 5, order: 2}]_
 <br />
-__A stable sort must return {value: 5, order: 1}, {value:5, order: 2} in that order.__
+_A stable sort must return {value: 5, order: 1}, {value:5, order: 2} in that order._
 
