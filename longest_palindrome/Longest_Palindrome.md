@@ -3,8 +3,7 @@
 <br />
 
 **Examples:**
-<br />
-<br />
+<hr />
 Input   Output
 <br />
 string:
