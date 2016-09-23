@@ -1,10 +1,8 @@
 
 #Number to English
-<br />
-Write a function numberToEnglish, it should take a number and return the number as a string using English words.
-<br />
-
-Input   Output
+**Write a function numberToEnglish, it should take a number and return the number as a string using English words.**
+<hr />
+**Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output**
 <br />
 number:
 <br />
