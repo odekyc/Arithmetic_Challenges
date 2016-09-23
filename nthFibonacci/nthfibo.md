@@ -8,10 +8,10 @@ Suppose that our iguanas never die and that the female always produces one new p
 How many pairs of iguanas will there be after n months?
 <br />
 For example, the iguana pair size for months zero through five are:
-<br />
+<br />**
 _0 1 1 2 3 5_
 <br />
-If n were 4, your function should return 3; for 5, it should return 5.
+**If n were 4, your function should return 3; for 5, it should return 5.
 <br />
 HINT: This iguana pattern is described exactly by the fibonacci sequence:
 <br />
