@@ -29,7 +29,8 @@ target (required) - an integer value.
 <br />
 
 ###Examples
-<br />
+
+Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output
 ________
 array:
 [ 5 ]
