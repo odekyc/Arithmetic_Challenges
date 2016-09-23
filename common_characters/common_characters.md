@@ -1,5 +1,4 @@
 #Common Characters
-<br />
 **Write a function that accepts two strings as arguments, and returns only the characters that are common to 
 both strings.
 <br />
