@@ -1,6 +1,5 @@
 #Non-repeated Character
-<br />
-Given an arbitrary input string, return the first non-repeating character. For strings with all repeats, return 'sorry'.
+**Given an arbitrary input string, return the first non-repeating character. For strings with all repeats, return 'sorry'.**
 <br />
 Examples
 <br />
