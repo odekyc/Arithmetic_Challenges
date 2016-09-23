@@ -12,7 +12,7 @@ so we’ll be sorting objects with a value field, on which they will be sorted, 
 _[{value: 10}, {value: 5, order: 1}, {value: 5, order: 2}]_
 <br />
 <br />
-**_A stable sort must return_** 
+**A stable sort must return** 
 <br />
 _{value: 5, order: 1}, {value:5, order: 2} in that order._
 
