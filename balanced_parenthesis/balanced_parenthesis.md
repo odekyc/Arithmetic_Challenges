@@ -13,9 +13,9 @@ string:&nbsp;&nbsp;&nbsp;"(x + y) - (4)"
 <br />
 true
 <br />
-string:
+**Input** 
 <br />
-"(((10 ) ()) ((?)(:)))"	true
+string:&nbsp;&nbsp;&nbsp;"(((10 ) ()) ((?)(:)))"	true
 <br />
 string:
 <br />
