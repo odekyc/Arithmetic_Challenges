@@ -4,11 +4,12 @@ Given a string, return true if it contains balanced parenthesis ().
 <br />
 Examples
 <br />
-Input	Output
+**Input** 
 <br />
-string:
+string:&nbsp;&nbsp;&nbsp;"(x + y) - (4)"	
 <br />
-"(x + y) - (4)"	true
+
+true
 <br />
 string:
 <br />
