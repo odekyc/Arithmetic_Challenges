@@ -3,7 +3,7 @@
 <br />
 If there are two runs of equal length, return the first one. Return [0,0] for no runs.**
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examples:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Examples:**
 <br />
 Input   Output
 <br />
