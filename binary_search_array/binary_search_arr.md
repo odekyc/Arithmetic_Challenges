@@ -41,7 +41,6 @@ ________
 **target:**
 <br />
 4	
-<br />
 _____________
 **array:**
 <br />
@@ -51,16 +50,14 @@ _____________
 **target:**
 <br />
 11	
-<br />
-
-array:
-[ 11, 12, 13, 14, 15 ]
+________________
+**array:**
+[ 11, 12, 13, 14, 15 ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**output:**
+1
 <br />
 target:
 12	
 <br />
-output:
-1
 <br />
 array:
 [ 11, 12, 13, 14, 15 ]
