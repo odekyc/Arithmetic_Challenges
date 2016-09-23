@@ -19,6 +19,7 @@ true
 <br />
 <br />
 **Input** 
+<br />
 string:&nbsp;&nbsp;&nbsp;"(50)("
 <br />
 **Output**
@@ -27,6 +28,7 @@ false
 <br />
 <br />
 **Input**
+<br />
 string: ""
 <br />
 **Output**
