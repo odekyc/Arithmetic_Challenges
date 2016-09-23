@@ -1,12 +1,10 @@
 #Pairwise
-<br/>
-Given an array arr, find element pairs whose sum equal the second argument arg and return the sum of their indices.
-
+**Given an array arr, find element pairs whose sum equal the second argument arg and return the sum of their indices.**
 <br />
-For example pairwise([7, 9, 11, 13, 15], 20) returns 6. The pairs that sum to 20 are [7, 13] and [9, 11]. We can then write out the array with their indices and values.
-<br />
+**For example pairwise([7, 9, 11, 13, 15], 20) returns 6. The pairs that sum to 20 are [7, 13] and [9, 11]. We can then write out the array with their indices and values.**
+<hr />
 Index   0   1   2   3   4
-<br />
+<hr />
 Value   7   9   11  13  15
 <br />
 Below we'll take their corresponding indices and add them.
