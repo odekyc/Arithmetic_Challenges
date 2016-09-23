@@ -1,5 +1,4 @@
 #Balanced Parenthesis
-<br />
 ####**Given a string, return true if it contains balanced parenthesis ().**
 _**Examples**_:
 <br />
