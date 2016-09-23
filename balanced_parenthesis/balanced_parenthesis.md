@@ -2,7 +2,9 @@
 <br />
 Given a string, return true if it contains balanced parenthesis ().
 <br />
-Examples
+<br />
+Examples:
+<br />
 <br />
 **Input** 
 <br />
