@@ -6,6 +6,7 @@ If there are two runs of equal length, return the first one. Return [0,0] for no
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Examples:**
 <br />
+<br />
 Input   Output
 <br />
 string:
