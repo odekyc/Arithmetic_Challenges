@@ -1,7 +1,6 @@
 #Balanced Parenthesis
 <br />
 ####**Given a string, return true if it contains balanced parenthesis ().**
-<br />
 _**Examples**_:
 <br />
 **Input** 
