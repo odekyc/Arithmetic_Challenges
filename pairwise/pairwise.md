@@ -9,8 +9,11 @@
 <hr />
 **Below we'll take their corresponding indices and add them.**
 <br />
-7 + 13 = 20 → Indices 0 + 3 = 3
+<br />
+**7 + 13 = 20 → Indices 0 + 3 = 3
+<br />
 <br />
 9 + 11 = 20 → Indices 1 + 2 = 3
 <br />
-3 + 3 = 6 → Return 6
+<br />
+3 + 3 = 6 → Return 6**
