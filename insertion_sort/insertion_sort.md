@@ -11,5 +11,8 @@ so we’ll be sorting objects with a value field, on which they will be sorted, 
 <br />
 _[{value: 10}, {value: 5, order: 1}, {value: 5, order: 2}]_
 <br />
-_A stable sort must return {value: 5, order: 1}, {value:5, order: 2} in that order._
+<br />
+**_A stable sort must return_** 
+<br />
+_{value: 5, order: 1}, {value:5, order: 2} in that order._
 
