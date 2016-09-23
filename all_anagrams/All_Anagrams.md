@@ -7,8 +7,6 @@ string (required) - a string of characters.
 
 **Examples:**
 <br />
-Input   Output
+Input&nbsp;&nbsp;&nbsp;Output
 <br />
-string:
-<br />
-"abc"   [ "abc", "acb", "bac", "bca", "cab", "cba" ]
+"abc"&nbsp;&nbsp;&nbsp;[ "abc", "acb", "bac", "bca", "cab", "cba" ]
