@@ -9,4 +9,4 @@ string (required) - a string of characters.
 <br />
 Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output
 <br />
-"abc"&nbsp;&nbsp;&nbsp;[ "abc", "acb", "bac", "bca", "cab", "cba" ]
+"abc"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ "abc", "acb", "bac", "bca", "cab", "cba" ]
