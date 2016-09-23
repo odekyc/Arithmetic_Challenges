@@ -1,9 +1,10 @@
 #Largest Product of Three
 **Write a function that accepts an array of integers and returns the largest product possible from _three_ of those numbers.**
 <br />
-Examples
 <br />
-Input	Output
+**Examples:**
+<br />
+**Input**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Output**
 <br />
 array:
 <br />
