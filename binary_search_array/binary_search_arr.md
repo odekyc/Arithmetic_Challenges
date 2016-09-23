@@ -1,6 +1,6 @@
 #Binary Search Array
 <br />
-Given a sorted array of integers, find the index of a target value using a binary search algorithm.
+**Given a sorted array of integers, find the index of a target value using a binary search algorithm.
 <br />
 A binary search finds an item in a sorted array by repeatedly choosing a middle value and dividing the search 
 <br />
@@ -10,7 +10,7 @@ than the middle value of the interval, then the next interval will be the lower 
 <br />
  If the value of the target value is greater than the middle value, then the next interval will be the upper
 <br />
-  half. The search process repeats until the middle value is equal to the target value, or the search interval is empty.
+  half. The search process repeats until the middle value is equal to the target value, or the search interval is empty.**
 
 <br />
 Note:
