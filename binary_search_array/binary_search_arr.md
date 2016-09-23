@@ -21,17 +21,16 @@ Your function should return -1 for target values not in the array.
 
 
 
-Parameters:
+**Parameters:**
 <br />
-
 array (required) - an array.
 <br />
 target (required) - an integer value.
 <br />
-Examples
-<br />
 
+###Examples
 <br />
+________
 array:
 [ 5 ]
 <br />
