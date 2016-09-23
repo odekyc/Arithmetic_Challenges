@@ -55,10 +55,10 @@ ________________
 [ 11, 12, 13, 14, 15 ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**output:**
 1
 <br />
-target:
+**target:**
+<br />
 12	
-<br />
-<br />
+___________
 array:
 [ 11, 12, 13, 14, 15 ]
 <br />
