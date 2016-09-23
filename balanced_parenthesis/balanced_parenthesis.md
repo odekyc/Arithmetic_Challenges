@@ -12,7 +12,11 @@ true
 <br />
 **Input** 
 <br />
-string:&nbsp;&nbsp;&nbsp;"(((10 ) ()) ((?)(:)))"	true
+string:&nbsp;&nbsp;&nbsp;"(((10 ) ()) ((?)(:)))"	
+<br />
+**Output**
+<br />
+true
 <br />
 string:
 <br />
