@@ -27,9 +27,7 @@ false
 <br />
 <br />
 **Input**
-string:
-<br />
-""
+string: ""
 <br />
 **Output**
 <br />
