@@ -16,7 +16,7 @@ Note:
 <br />
 Your function should return -1 for target values not in the array. 
 <br />
-Do NOT use Array.prototype.indexOf in your solution. What would be the fun in that?
+**Do NOT use Array.prototype.indexOf in your solution.** What would be the fun in that?
 <br />
 
 
