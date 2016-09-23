@@ -67,29 +67,25 @@ ___________
 <br />
 13	
 ___________
-array:
-[ 11, 12, 13, 14, 15 ]
-<br />
-target:
-14	
-<br />
-output:
+**array:**
+[ 11, 12, 13, 14, 15 ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**output:**
 3
 <br />
-array:
-[ 11, 12, 13, 14, 15 ]
+**target:**
 <br />
-target:
-15	
-<br />
-output:
+14	
+___________
+**array:**
+[ 11, 12, 13, 14, 15 ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**output:**
 4
 <br />
-array:
-[ 11, 12, 13, 14, 15 ]
-<br />
-target:
-16	
-<br />
-output:
+**target:**
+15	
+_____________
+**array:**
+[ 11, 12, 13, 14, 15 ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**output:**
 -1
+<br />
+**target:**
+16	
+
