@@ -12,15 +12,18 @@ true
 <br />
 **Input** 
 <br />
-string:&nbsp;&nbsp;&nbsp;"(((10 ) ()) ((?)(:)))"	
-<br />
+string:&nbsp;&nbsp;&nbsp;"(((10 ) ()) ((?)(:)))"
 **Output**
 <br />
 true
 <br />
-string:
 <br />
-"(50)("	false
+**Input** 
+string:&nbsp;&nbsp;&nbsp;"(50)("
+<br />
+**Output**
+<br />
+false
 <br />
 string:
 <br />
