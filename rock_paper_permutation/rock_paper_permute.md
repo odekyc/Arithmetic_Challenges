@@ -2,9 +2,9 @@
 **Given a number of rounds n, return all the possible rock-paper-scissors play possibilities for that number of rounds.**
 <br />
 **Examples:**
-<br />
+<hr />
 &nbsp;&nbsp;&nbsp;&nbsp;**Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output**
-<br />
+<hr />
 roundCount:
 <br />
 1	[ "r", "p", "s" ]
