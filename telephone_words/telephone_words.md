@@ -13,7 +13,7 @@ Write a function that takes up to four digits of a phone number, and returns a l
 <hr />
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output**
 <hr />
-digitString:
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;digitString:**
 <br />
 "0002"	[ "000A", "000B", "000C" ]
 <br />
