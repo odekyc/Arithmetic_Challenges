@@ -20,10 +20,10 @@ Duplicate characters in strings should be ignored; for example, ‘obama’ shou
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"a" [ "", "a" ]
 <br />
-string:
+**string:**
 <br />
 "ab"    [ "", "a", "ab", "b" ]
 <br />
-string:
+**string:**
 <br />
 "horse" [ "", "e", "eh", "eho", "ehor", "ehors", "ehos", "ehr", "ehrs", "ehs", "eo", "eor", "eors", "eos", "er", "ers", "es", "h", "ho", "hor", "hors", "hos", "hr", "hrs", "hs", "o", "or", "ors", "os", "r", "rs", "s" ]
