@@ -7,9 +7,7 @@
 <hr />
 &nbsp;&nbsp;&nbsp;&nbsp;roundCount: 1	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ "r", "p", "s" ]
 <hr />
-roundCount:
-<br />
-2	[ "rr", "rp", "rs", "pr", "pp", "ps", "sr", "sp", "ss" ]
+&nbsp;&nbsp;&nbsp;&nbsp;roundCount: 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ "rr", "rp", "rs", "pr", "pp", "ps", "sr", "sp", "ss" ]
 <br />
 roundCount:
 <br />
