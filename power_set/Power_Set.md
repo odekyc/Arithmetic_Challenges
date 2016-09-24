@@ -13,7 +13,7 @@ Duplicate characters in strings should be ignored; for example, ‘obama’ shou
 **Examples:**
 <br />
 <br />
-Input   Output
+**Inputnbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;Output**
 <br />
 string:
 <br />
