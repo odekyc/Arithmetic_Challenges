@@ -18,7 +18,6 @@ _Rotated:_
 [4, 2] ]
 <br />
 <br />
-<br />
 **4x4 MATRIX EXAMPLE:**
 <br />
 [ [ 1, 2, 3, 4],
