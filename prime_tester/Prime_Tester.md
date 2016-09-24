@@ -8,9 +8,9 @@ n (required) - a number.
 <br />
 <br />
 **Examples:**
-<br />
-Input   Output
-<br />
+<hr />
+**Input**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Output**
+<hr />
 n:
 <br />
 2   true
