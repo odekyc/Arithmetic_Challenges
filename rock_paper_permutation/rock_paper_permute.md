@@ -1,10 +1,9 @@
 #Rock Paper Permutation
+**Given a number of rounds n, return all the possible rock-paper-scissors play possibilities for that number of rounds.**
 <br />
-Given a number of rounds n, return all the possible rock-paper-scissors play possibilities for that number of rounds.
+**Examples:**
 <br />
-Examples
-<br />
-Input	Output
+&nbsp;&nbsp;&nbsp;&nbsp;**Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output**
 <br />
 roundCount:
 <br />
