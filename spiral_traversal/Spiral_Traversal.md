@@ -6,7 +6,7 @@ and prints out every value found, but in a spiral from the upper left in to the 
 <br />
 **Examples:**
 <br />
-Input   Output
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output**
 <br />
 matrix:
 <br />
