@@ -8,11 +8,13 @@
 **2x2 MATRIX EXAMPLE:**
 <br />
 [ [1, 2],
+<br />
 [3, 4] ]
 <br />
 _Rotated:_
 <br />
 [ [3, 1],
+<br />
 [4, 2] ]
 <br />
 4x4 MATRIX EXAMPLE:
