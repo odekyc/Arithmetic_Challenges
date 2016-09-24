@@ -10,11 +10,9 @@ Write a function that takes up to four digits of a phone number, and returns a l
 <br />
 <br />
 **Examples:**
-<br />
-<br />
+<hr />
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output**
-
-<br />
+<hr />
 digitString:
 <br />
 "0002"	[ "000A", "000B", "000C" ]
