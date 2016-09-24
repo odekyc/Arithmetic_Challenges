@@ -7,6 +7,7 @@
 <br />
 **2x2 MATRIX EXAMPLE:**
 <br />
+<br />
 [ [1, 2],
 <br />
 [3, 4] ]
