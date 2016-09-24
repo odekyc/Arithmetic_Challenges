@@ -13,8 +13,9 @@ Duplicate characters in strings should be ignored; for example, ‘obama’ shou
 **Examples:**
 <br />
 <br />
+<hr />
 **Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output**
-<br />
+<hr />
 string:
 <br />
 "a" [ "", "a" ]
