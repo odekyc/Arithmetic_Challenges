@@ -9,7 +9,9 @@ Sets of the same characters are considered duplicates regardless of order and co
 <br />
 Duplicate characters in strings should be ignored; for example, ‘obama’ should be evaluated as if it only contained one ‘a’. See the result below.**
 <br />
+<br />
 **Examples:**
+<br />
 <br />
 Input   Output
 <br />
