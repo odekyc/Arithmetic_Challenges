@@ -23,6 +23,7 @@ _Rotated:_
 <br />
 **4x4 MATRIX EXAMPLE:**
 <br />
+<br />
 [ [ 1, 2, 3, 4],
 [ 5, 6, 7, 8],
 [ 9, “A”,”B”,”C”],
