@@ -6,7 +6,8 @@
 <br />
 n (required) - a number.
 <br />
-Examples
+<br />
+**Examples:**
 <br />
 Input   Output
 <br />
