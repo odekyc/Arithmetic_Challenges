@@ -4,12 +4,13 @@
 <br />
 **A matrix, also called a 2-D array, is simply an array of arrays of values.**
 <br />
-2x2 MATRIX EXAMPLE:
+<br />
+**2x2 MATRIX EXAMPLE:**
 <br />
 [ [1, 2],
 [3, 4] ]
 <br />
-Rotated:
+_Rotated:_
 <br />
 [ [3, 1],
 [4, 2] ]
