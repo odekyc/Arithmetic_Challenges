@@ -1,6 +1,8 @@
 #Rotate Matrix
 **Write a function that rotates a NxN matrix 90 degrees clockwise.**
-A matrix, also called a 2-D array, is simply an array of arrays of values.
+<br />
+<br />
+**A matrix, also called a 2-D array, is simply an array of arrays of values.**
 <br />
 2x2 MATRIX EXAMPLE:
 <br />
