@@ -15,7 +15,7 @@ Write a function that takes up to four digits of a phone number, and returns a l
 <hr />
 **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;digitString:**
 <br />
-"0002"	[ "000A", "000B", "000C" ]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"0002"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ "000A", "000B", "000C" ]
 <br />
 digitString:
 <br />
