@@ -20,3 +20,11 @@ Pipe composes a series of functions and returns the resulting function. Each fun
 You can think of pipe as moving left to right through its arguments.
 
 ##Example
+
+    var add2 = function(number){ return number + 2; }
+    var multiplyBy3 = function(number){ return number * 3; }
+
+    pipe(add2, multiplyBy3)(5) //=> 21
+    pipe(add2, multiplyBy3, multiplyBy3)(5) //=> 63
+    
+HINT: You should use the functions reduce() and reduceRight() in your solutions.
