@@ -12,3 +12,11 @@ You can think of compose as moving right to left through its arguments.
 
     var welcome = compose(greet, exclaim);
     welcome('phillip'); //=> 'hi: PHILLIP!'
+    
+
+##Pipe:
+Pipe composes a series of functions and returns the resulting function. Each function is called on the return value of the preceding function.
+
+You can think of pipe as moving left to right through its arguments.
+
+#Example
