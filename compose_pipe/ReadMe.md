@@ -19,4 +19,4 @@ Pipe composes a series of functions and returns the resulting function. Each fun
 
 You can think of pipe as moving left to right through its arguments.
 
-#Example
+##Example
