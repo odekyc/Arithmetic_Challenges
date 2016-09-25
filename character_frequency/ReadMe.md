@@ -1,8 +1,8 @@
 #Character Frequency
 Write a function that takes as its input a string and returns an array of arrays as shown below sorted in descending order by frequency and then by ascending order by character.
 
-Examples
-Input	Output
+###Examples
+**Input&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Output**
 string:
 "aaabbc"	[ [ "a", 3 ], [ "b", 2 ], [ "c", 1 ] ]
 string:
